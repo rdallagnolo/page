@@ -94,16 +94,23 @@ a:hover{
     line-height: 2;
 }
 
-.ds-image{
+.da-image{
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
-.ml-image{
+
+.ds-image{
     width: 25%;
     float: right;
     margin-left: 30px;
+}
+
+.ml-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
 
 .contact-me{
